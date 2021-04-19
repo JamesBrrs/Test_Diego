@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "208874782576",
+    "project_id": "test-diego-929b3",
+    "storage_bucket": "test-diego-929b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208874782576:android:1f2c7dc3aa7387994419b5",
+        "android_client_info": {
+          "package_name": "com.example.testdiego"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208874782576-o2qcoa4a7i5ugstj5nknkh4nea196ug1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbcrB4KYoUDkUmKGrLILZ-ChUlsteKl38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208874782576-o2qcoa4a7i5ugstj5nknkh4nea196ug1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
